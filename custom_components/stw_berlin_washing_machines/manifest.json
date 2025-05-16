@@ -1,0 +1,18 @@
+{
+  "domain": "stw_berlin_washing_machines",
+  "name": "STW Berlin Washing Machines",
+  "version": "0.1.0",
+  "codeowners": [
+    "@jan-be"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/stw_berlin_washing_machines",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "quality_scale": "bronze",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "integration_type": "hub"
+}
